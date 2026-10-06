@@ -115,8 +115,8 @@ const EXPERIENCE = [
   {
     period: "Juni 2026",
     org: "I/O Festival 2026",
-    role: "Koordinator Logistik",
-    body: "Mengelola koordinasi pasokan dan logistik untuk acara kampus. Merinci kebutuhan infrastruktur kelistrikan serta berkomunikasi langsung dengan vendor perlengkapan untuk kelancaran acara.",
+    role: "Panitia Logistik",
+    body: "Mengelola koordinasi pasokan dan logistik untuk acara kampus. Merinci kebutuhan infrastruktur Kelampuan serta berkomunikasi langsung dengan vendor perlengkapan untuk kelancaran acara.",
   },
 ];
 
@@ -174,7 +174,7 @@ function renderHome() {
             <div class="lightcone" data-lightcone>
               <div class="lightcone-depth"></div>
               <div class="lightcone-shadow-2"></div>
-              
+
               <div class="lightcone-card" data-lightcone-card>
               <div class="lightcone-art-placeholder" style="padding: 0; overflow: hidden; background: none;">
                   <img src="/Gunadi.png" alt="Foto Gunadi" style="width: 100%; height: 100%; object-fit: cover;" />
