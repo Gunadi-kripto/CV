@@ -175,11 +175,12 @@ function renderHome() {
               <div class="lightcone-depth"></div>
               <div class="lightcone-shadow-2"></div>
               
+              <div class="lightcone-card" data-lightcone-card>
               <div class="lightcone-art-placeholder" style="padding: 0; overflow: hidden; background: none;">
                   <img src="/Gunadi.png" alt="Foto Gunadi" style="width: 100%; height: 100%; object-fit: cover;" />
                 </div>
                 <div class="lightcone-rim"></div>
-                <div class="lightcone-shine"></div>
+                <div class="lightcone-shine" style="z-index: 10; pointer-events: none;"></div>
                 <div class="lightcone-inner-frame"></div>
                 <div class="lightcone-frame"></div>
                 
