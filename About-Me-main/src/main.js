@@ -109,14 +109,14 @@ const EXPERIENCE = [
   {
     period: "Mei 2026",
     org: "Neon 2026",
-    role: "Panitia Acara",
+    role: "Panitia Lomba English Spelling Bee",
     body: "Mengoordinasikan kegiatan organisasi kampus untuk kompetisi English Spelling Bee. Mengelola undangan juri, jadwal operasional, serta naskah jalannya acara.",
   },
   {
     period: "Juni 2026",
     org: "I/O Festival 2026",
     role: "Panitia Logistik",
-    body: "Mengelola koordinasi pasokan dan logistik untuk acara kampus. Merinci kebutuhan infrastruktur Kelampuan serta berkomunikasi langsung dengan vendor perlengkapan untuk kelancaran acara.",
+    body: "Mengelola koordinasi pasokan dan logistik untuk acara kampus. Merinci kebutuhan infrastruktur Pencahayaan serta berkomunikasi langsung dengan vendor perlengkapan untuk kelancaran acara.",
   },
 ];
 
