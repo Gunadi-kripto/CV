@@ -409,7 +409,7 @@ function renderContact() {
         </div>
 
         <div class="contact-card">
-          <a class="email cursor-target" href="mailto:edward.stiawan28@gmail.com" style="font-size: clamp(18px, 4vw, 28px);">edward.stiawan28@gmail.com</a>
+          <a class="email cursor-target" href="mailto:gunadi.setiawan0628@gmail.com" style="font-size: clamp(18px, 4vw, 28px);">gunadi.setiawan0628@gmail.com</a>
           <p class="contact-note">Berbasis di Jakarta, Indonesia.</p>
 
           <div class="contact-links">
@@ -418,6 +418,10 @@ function renderContact() {
           </div>
         </div>
       </div>
+      <p class="site-credit">
+        Dibangun dengan bantuan
+        <a class="cursor-target" href="mailto:Caniagochariel@gmail.com">Caniagochariel@gmail.com</a>
+      </p>
     </section>
   `;
 }
