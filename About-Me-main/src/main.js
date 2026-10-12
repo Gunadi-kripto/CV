@@ -409,7 +409,7 @@ function renderContact() {
         </div>
 
         <div class="contact-card">
-          <a class="email cursor-target" href="mailto:gunadi.setiawan0628@gmail.com" style="font-size: clamp(18px, 4vw, 28px);">gunadi.setiawan0628@gmail.com</a>
+          <a class="email cursor-target" href="mailto:gunadi.setiawan.id@gmail.com" style="font-size: clamp(18px, 4vw, 28px);">gunadi.setiawan.id@gmail.com</a>
           <p class="contact-note">Berbasis di Jakarta, Indonesia.</p>
 
           <div class="contact-links">
