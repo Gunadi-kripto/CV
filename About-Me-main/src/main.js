@@ -413,7 +413,7 @@ function renderContact() {
           <p class="contact-note">Berbasis di Jakarta, Indonesia.</p>
 
           <div class="contact-links">
-            <a class="cursor-target" href="https://www.linkedin.com/in/gunadi-setiawan-a89505382" aria-label="LinkedIn">LinkedIn ↗</a>
+            <a class="cursor-target" href="https://www.linkedin.com/in/gunadi-setiawan" aria-label="LinkedIn">LinkedIn ↗</a>
             <a class="cursor-target" href="https://github.com/Gunadi-kripto" aria-label="GitHub">GitHub ↗</a>
           </div>
         </div>
